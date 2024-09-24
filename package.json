@@ -1,0 +1,27 @@
+{
+  "name": "googleservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audio-buffer-from": "^1.1.1",
+    "axios": "^1.6.8",
+    "cheerio": "1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "elevenlabs": "^0.4.0",
+    "express": "^4.19.2",
+    "millify": "^6.1.0",
+    "node-fetch": "^3.3.2",
+    "pdfkit": "^0.15.0",
+    "webp-converter": "^2.3.3",
+    "ytdl-core": "^4.11.5",
+    "ytsr": "^3.8.4"
+  }
+}
